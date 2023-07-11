@@ -1,0 +1,15 @@
+.container{
+    height: 600px;
+    width: 400px;
+    background-color: rgb(250, 4, 98);
+    margin-top: 40px;
+    margin-left: 500px;
+}
+
+input[type=number]:hover{
+    background-color: grey;
+}
+
+button[type=button]:hover{
+    background-color: yellow;
+}
